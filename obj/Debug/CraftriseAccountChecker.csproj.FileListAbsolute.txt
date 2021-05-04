@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\obj\Debug\CraftriseAccountChecker.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\obj\Debug\CraftriseAccountChecker.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\bin\Debug\CraftriseAccountChecker.exe.config
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\bin\Debug\CraftriseAccountChecker.exe
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\bin\Debug\CraftriseAccountChecker.pdb
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\obj\Debug\CraftriseAccountChecker.exe
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\obj\Debug\CraftriseAccountChecker.pdb

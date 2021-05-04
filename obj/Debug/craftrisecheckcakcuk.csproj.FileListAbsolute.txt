@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\bin\Debug\craftrisecheckcakcuk.exe.config
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\bin\Debug\craftrisecheckcakcuk.exe
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\bin\Debug\craftrisecheckcakcuk.pdb
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\obj\Debug\craftrisecheckcakcuk.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\obj\Debug\craftrisecheckcakcuk.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\obj\Debug\craftrisecheckcakcuk.exe
+C:\Users\pc\source\repos\craftrisecheckcakcuk\craftrisecheckcakcuk\obj\Debug\craftrisecheckcakcuk.pdb
